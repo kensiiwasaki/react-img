@@ -61,7 +61,7 @@ function Form(props) {
                         <div className="select is-fullwidth">
                             <select name="breed" defaultValue="shiba">
                                 <option value="shiba">Shiba</option>
-                                <option value="akita">Akita</option>
+                                <option value="akita">akita</option>
                             </select>
                         </div>
                     </div>
